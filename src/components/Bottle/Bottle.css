@@ -1,0 +1,9 @@
+.bottle-container{
+    border:2px solid skyblue;
+    margin:5px;
+    padding:5px;
+    border-radius:10px;
+}
+.bottle img{
+    width:300px;
+}
